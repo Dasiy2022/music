@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/player">
+        <file>logo/logo.png</file>
+        <file>logo/播放.png</file>
+        <file>logo/单曲循环.png</file>
+        <file>logo/列表循环.png</file>
+        <file>logo/上一曲.png</file>
+        <file>logo/随机.png</file>
+        <file>logo/下一曲.png</file>
+        <file>logo/循环.png</file>
+        <file>logo/音乐.png</file>
+        <file>logo/音乐播放列表.png</file>
+        <file>logo/音量.png</file>
+        <file>logo/暂停.png</file>
+        <file>logo/音量关闭.jpg</file>
+        <file>logo/r.jpg</file>
+        <file>logo/01.jpg</file>
+        <file>logo/02.jpg</file>
+        <file>logo/退出1.png</file>
+        <file>logo/退出2.png</file>
+    </qresource>
+</RCC>
